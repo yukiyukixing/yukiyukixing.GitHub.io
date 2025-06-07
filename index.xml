@@ -1771,6 +1771,7 @@
 &lt;th&gt;阅读时间&lt;/th&gt;
 &lt;th&gt;阅读记录&lt;/th&gt;
 &lt;th&gt;读后感&lt;/th&gt;
+&lt;th&gt;豆瓣评分&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -1780,6 +1781,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/02.%E5%91%BD%E8%BF%90%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/02.%E5%91%BD%E8%BF%90%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/%E5%88%86%E4%BA%AB.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/36084340/&#34;&gt;8.8&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2&lt;/td&gt;
@@ -1787,6 +1789,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/30.%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%A0%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/30.%E5%9F%83%E9%9A%86%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BC%A0%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.10.11.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/36518892/&#34;&gt;8.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;3&lt;/td&gt;
@@ -1794,6 +1797,7 @@
 &lt;td&gt;2022✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/2.books-2022/28.%E5%88%80%E9%94%8B%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/2.books-2022/28.%E5%88%80%E9%94%8B%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2022.10.18.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/33404948/&#34;&gt;8.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;4&lt;/td&gt;
@@ -1801,6 +1805,7 @@
 &lt;td&gt;2022✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/2.books-2022/33.%E6%82%89%E8%BE%BE%E5%A4%9A%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/2.books-2022/33.%E6%82%89%E8%BE%BE%E5%A4%9A%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/%E5%88%86%E4%BA%AB.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/30200870/&#34;&gt;9.1&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;5&lt;/td&gt;
@@ -1808,6 +1813,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/26.%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/26.%E7%A9%B7%E6%9F%A5%E7%90%86%E5%AE%9D%E5%85%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.09.24.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/35557542/&#34;&gt;8.5&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;6&lt;/td&gt;
@@ -1815,6 +1821,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/15.%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/15.%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.06.21.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/36482108/&#34;&gt;8.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;7&lt;/td&gt;
@@ -1822,6 +1829,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/02.%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/02.%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%86%85%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.01.31.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/35546622/&#34;&gt;9.1&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;8&lt;/td&gt;
@@ -1829,6 +1837,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/34.%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/34.%E7%BA%B3%E7%93%A6%E5%B0%94%E5%AE%9D%E5%85%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.10.30.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/35876121/&#34;&gt;8.3&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;9&lt;/td&gt;
@@ -1836,6 +1845,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/10.%E7%BA%A2%E4%B8%8E%E9%BB%91%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/10.%E7%BA%A2%E4%B8%8E%E9%BB%91%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.09.22.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/26897469/&#34;&gt;8.6&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;10&lt;/td&gt;
@@ -1843,6 +1853,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/13.%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/13.%E5%B0%98%E5%9F%83%E8%90%BD%E5%AE%9A%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.08.27.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://book.douban.com/subject/35051822/&#34;&gt;8.7&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;11&lt;/td&gt;
@@ -1850,6 +1861,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/11.%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/11.%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.01.11.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;12&lt;/td&gt;
@@ -1857,6 +1869,7 @@
 &lt;td&gt;2025✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/5.books-2025/07.%E8%A6%81%E9%92%B1%E8%BF%98%E6%98%AF%E8%A6%81%E7%94%9F%E6%B4%BB%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/5.books-2025/07.%E8%A6%81%E9%92%B1%E8%BF%98%E6%98%AF%E8%A6%81%E7%94%9F%E6%B4%BB%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2025.02.27.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;13&lt;/td&gt;
@@ -1864,6 +1877,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/09.%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%B2%B3%E5%8F%B3%E5%B2%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/09.%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3%E6%B2%B3%E5%8F%B3%E5%B2%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.03.14.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;14&lt;/td&gt;
@@ -1871,6 +1885,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/10.%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/10.%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.03.26.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;15&lt;/td&gt;
@@ -1878,6 +1893,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/10.%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2%E5%81%9A%E4%BF%9D%E6%B4%81%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/10.%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2%E5%81%9A%E4%BF%9D%E6%B4%81%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.05.06.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;16&lt;/td&gt;
@@ -1885,6 +1901,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/19.%E9%87%91%E9%92%B1%E5%BF%83%E7%90%86%E5%AD%A6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/19.%E9%87%91%E9%92%B1%E5%BF%83%E7%90%86%E5%AD%A6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.08.03.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;17&lt;/td&gt;
@@ -1892,6 +1909,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/08.%E8%B1%86%E5%AD%90%E8%8A%9D%E9%BA%BB%E8%8C%B6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/08.%E8%B1%86%E5%AD%90%E8%8A%9D%E9%BA%BB%E8%8C%B6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.04.19.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;18&lt;/td&gt;
@@ -1899,6 +1917,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/09.%E7%A7%8B%E5%9B%AD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/09.%E7%A7%8B%E5%9B%AD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.04.24.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;19&lt;/td&gt;
@@ -1906,6 +1925,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/07.%E6%BF%80%E8%8D%A1%E4%B8%89%E5%8D%81%E5%B9%B4%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/07.%E6%BF%80%E8%8D%A1%E4%B8%89%E5%8D%81%E5%B9%B4%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/%E4%B8%8B/2024.04.15.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;20&lt;/td&gt;
@@ -1913,6 +1933,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/01.%E4%BD%A0%E5%BD%93%E5%83%8F%E9%B8%9F%E9%A3%9E%E5%BE%80%E4%BD%A0%E7%9A%84%E5%B1%B1%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/01.%E4%BD%A0%E5%BD%93%E5%83%8F%E9%B8%9F%E9%A3%9E%E5%BE%80%E4%BD%A0%E7%9A%84%E5%B1%B1%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.01.18.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;21&lt;/td&gt;
@@ -1920,6 +1941,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/11.%E9%98%BF%E5%8B%92%E6%B3%B0%E7%9A%84%E8%A7%92%E8%90%BD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/11.%E9%98%BF%E5%8B%92%E6%B3%B0%E7%9A%84%E8%A7%92%E8%90%BD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.05.24.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;22&lt;/td&gt;
@@ -1927,6 +1949,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/5.%E5%88%AB%E9%97%B9%E4%BA%86%EF%BC%8C%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/5.%E5%88%AB%E9%97%B9%E4%BA%86%EF%BC%8C%E8%B4%B9%E6%9B%BC%E5%85%88%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.04.26.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;23&lt;/td&gt;
@@ -1934,6 +1957,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/23.%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/23.%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.07.22.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;24&lt;/td&gt;
@@ -1941,6 +1965,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/08.%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/08.%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.03.11.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;25&lt;/td&gt;
@@ -1948,6 +1973,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/4.%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/4.%E9%AB%98%E6%95%88%E8%83%BD%E4%BA%BA%E5%A3%AB%E7%9A%84%E4%B8%83%E4%B8%AA%E4%B9%A0%E6%83%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.04.25.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;26&lt;/td&gt;
@@ -1955,6 +1981,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/20.%E6%9C%89%E9%92%B1%E4%BA%BA%E5%92%8C%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/20.%E6%9C%89%E9%92%B1%E4%BA%BA%E5%92%8C%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A0%B7%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.08.19.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;27&lt;/td&gt;
@@ -1962,6 +1989,7 @@
 &lt;td&gt;2025✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/5.books-2025/06.%E6%98%BE%E5%BE%AE%E9%95%9C%E4%B8%8B%E7%9A%84%E5%A4%A7%E6%98%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/5.books-2025/06.%E6%98%BE%E5%BE%AE%E9%95%9C%E4%B8%8B%E7%9A%84%E5%A4%A7%E6%98%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2025.02.14.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;28&lt;/td&gt;
@@ -1969,6 +1997,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/05.%E5%A4%AA%E7%99%BD%E9%87%91%E6%98%9F%E6%9C%89%E7%82%B9%E7%83%A6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/05.%E5%A4%AA%E7%99%BD%E9%87%91%E6%98%9F%E6%9C%89%E7%82%B9%E7%83%A6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.03.07.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;29&lt;/td&gt;
@@ -1976,6 +2005,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/18.%E3%80%90C%E7%B3%BB%E5%88%97%E3%80%91%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BB%B6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/18.%E3%80%90C%E7%B3%BB%E5%88%97%E3%80%91%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BB%B6%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.05.30.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;30&lt;/td&gt;
@@ -1983,6 +2013,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/1.%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/1.%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.03.11.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;31&lt;/td&gt;
@@ -1990,6 +2021,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/14.%E5%9B%B4%E5%9F%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/14.%E5%9B%B4%E5%9F%8E%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.04.14.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;32&lt;/td&gt;
@@ -1997,6 +2029,7 @@
 &lt;td&gt;2022✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/2.books-2022/35.%E8%8D%92%E5%8E%9F%E7%8B%BC%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/2.books-2022/35.%E8%8D%92%E5%8E%9F%E7%8B%BC%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/%E5%88%86%E4%BA%AB.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;33&lt;/td&gt;
@@ -2004,6 +2037,7 @@
 &lt;td&gt;2022✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/2.books-2022/19.%E4%BA%BA%E4%B8%96%E9%97%B4%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/2.books-2022/19.%E4%BA%BA%E4%B8%96%E9%97%B4%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/README.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;34&lt;/td&gt;
@@ -2011,6 +2045,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/12.%E7%9B%90%E9%95%87%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/12.%E7%9B%90%E9%95%87%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/%E5%88%86%E4%BA%AB%E7%A8%BF.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;35&lt;/td&gt;
@@ -2018,6 +2053,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/16.%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%80%81%E5%BF%AB%E9%80%92%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/16.%E6%88%91%E5%9C%A8%E5%8C%97%E4%BA%AC%E9%80%81%E5%BF%AB%E9%80%92%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.05.08.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;36&lt;/td&gt;
@@ -2025,6 +2061,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/06.%E6%88%91%E6%9C%AC%E8%8A%AC%E8%8A%B3%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/06.%E6%88%91%E6%9C%AC%E8%8A%AC%E8%8A%B3%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.02.28.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;37&lt;/td&gt;
@@ -2032,6 +2069,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/22.%E5%A7%8B%E4%BA%8E%E6%9E%81%E9%99%90%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/22.%E5%A7%8B%E4%BA%8E%E6%9E%81%E9%99%90%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.09.07.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;38&lt;/td&gt;
@@ -2039,6 +2077,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/17.%E3%80%90C%E7%B3%BB%E5%88%97%E3%80%91%E9%A5%B1%E9%A3%9F%E7%A9%B7%E6%B0%91%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/17.%E3%80%90C%E7%B3%BB%E5%88%97%E3%80%91%E9%A5%B1%E9%A3%9F%E7%A9%B7%E6%B0%91%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.05.21.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;39&lt;/td&gt;
@@ -2046,6 +2085,7 @@
 &lt;td&gt;2022✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/2.books-2022/37.%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%AC%E5%AD%A6%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/2.books-2022/37.%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%AC%E5%AD%A6%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2022.09.03.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;40&lt;/td&gt;
@@ -2053,6 +2093,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/24.%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/24.%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.09.22.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;41&lt;/td&gt;
@@ -2060,6 +2101,7 @@
 &lt;td&gt;2024✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/4.books-2024/06.%E7%88%B1%E4%BD%A0%E5%B0%B1%E5%83%8F%E7%88%B1%E7%94%9F%E5%91%BD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/4.books-2024/06.%E7%88%B1%E4%BD%A0%E5%B0%B1%E5%83%8F%E7%88%B1%E7%94%9F%E5%91%BD%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2024.03.15.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;42&lt;/td&gt;
@@ -2067,6 +2109,7 @@
 &lt;td&gt;2021✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/1.books-2021/11.%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/1.books-2021/11.%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2021.09.06.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;43&lt;/td&gt;
@@ -2074,6 +2117,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/13.%E4%BA%BA%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/13.%E4%BA%BA%E7%94%9F%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.03.28.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;44&lt;/td&gt;
@@ -2081,6 +2125,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/31.%E5%BE%AE%E4%B9%A0%E6%83%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/31.%E5%BE%AE%E4%B9%A0%E6%83%AF%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.10.17.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;45&lt;/td&gt;
@@ -2088,6 +2133,7 @@
 &lt;td&gt;2023✅&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/tree/main/3.books-2023/28.%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94&#34;&gt;阅读记录&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/yukiyukixing/Books/blob/main/3.books-2023/28.%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94%E2%9C%94/2023.08.17.md&#34;&gt;读后感&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2646,7 +2692,7 @@
 &lt;p&gt;爱好：赚钱💵，读书📖，美女🧍‍♀️，看电影🎬，旅行✈️，新体验✨。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;最新动态：推特&lt;a href=&#34;https://x.com/LeopoBrooks&#34;&gt;@LeopoBrooks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;最新动态：推特&lt;a href=&#34;https://x.com/LeopoBrooks&#34;&gt;@LeopoBrooks&lt;/a&gt;，欢迎关注。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;座右铭&#34;&gt;座右铭&lt;/h1&gt;
 &lt;blockquote&gt;
