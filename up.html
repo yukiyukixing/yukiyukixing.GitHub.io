@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang='zh-CN'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>对标UP列表</title>
+    <style>
+        :root {
+            --accent: #ff6699;
+            --bg: #f9fafb;
+            --fg: #111827;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            background: var(--bg);
+            color: var(--fg);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background: var(--accent);
+            color: #fff;
+            padding: 1rem 2rem;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        main {
+            flex: 1;
+            padding: 2rem 1rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        #searchBox {
+            width: 100%;
+            padding: .75rem 1rem;
+            margin-bottom: 1.5rem;
+            border-radius: .5rem;
+            border: 1px solid #d1d5db;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border-radius: .75rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, .05);
+            overflow: hidden;
+        }
+
+        th,
+        td {
+            padding: 1rem;
+            text-align: left;
+        }
+
+        th {
+            cursor: pointer;
+            background: #f3f4f6;
+            position: relative;
+            user-select: none;
+        }
+
+        tr:nth-child(even) {
+            background: #f9fafb;
+        }
+
+        th.sort-asc::after,
+        th.sort-desc::after {
+            content: '';
+            border: 6px solid transparent;
+            position: absolute;
+            right: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        th.sort-asc::after {
+            border-bottom-color: #6b7280;
+        }
+
+        th.sort-desc::after {
+            border-top-color: #6b7280;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <!-- <input type='text' id='searchBox' placeholder='搜索 UP 名称…'> -->
+        <table id='upTable'>
+            <thead>
+                <tr>
+                    <th data-key='rank'>排名</th>
+                    <th data-key='name'>UP 主</th>
+                    <th>个人中心</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </main>
+
+    <script>
+        const upList = [
+            { rank: 9, name: '明天吃根油条', uid: 1208431839 },
+            { rank: 12, name: 'Super好价君', uid: 402626075 },
+            { rank: 24, name: '闲聊数码站', uid: 3546730937191391 },
+            { rank: 46, name: '好价值得买', uid: 1158179778 },
+            { rank: 70, name: '大白讲数码', uid: 1320090056 },
+            { rank: 72, name: 'supers神价君', uid: 40687862 },
+            { rank: 74, name: '白菜君购物攻略', uid: 3493261505202184 },
+            { rank: 75, name: '科技健圣', uid: 1667723151 },
+            { rank: 81, name: '白菜数码', uid: 19985816 },
+            { rank: 96, name: '鱼丸学妹爱数码', uid: 1869270207 },
+            { rank: 98, name: '数码科技侦探', uid: 3546770239916549 },
+            { rank: 101, name: '超级值得买', uid: 3461582809991706 },
+            { rank: 116, name: '数码好价君', uid: 214390216 },
+            { rank: 132, name: 'anycalli608', uid: 3493090746697902 },
+            { rank: 148, name: '数码省钱快报', uid: 3546641189570665 },
+        ];
+
+        const tbody = document.querySelector('#upTable tbody');
+
+        function renderTable(data) {
+            tbody.innerHTML = '';
+            data.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+      <td>${item.rank}</td>
+      <td>${item.name}</td>
+      <td><a href='https://space.bilibili.com/${item.uid}' target='_blank'>直达</a></td>
+    `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        renderTable(upList);
+
+        // 搜索过滤
+        const searchBox = document.getElementById('searchBox');
+        searchBox.addEventListener('input', e => {
+            const keyword = e.target.value.trim().toLowerCase();
+            const filtered = upList.filter(u => u.name.toLowerCase().includes(keyword));
+            renderTable(filtered);
+        });
+
+        // 排序
+        const headers = document.querySelectorAll('th[data-key]');
+        headers.forEach(th => {
+            th.addEventListener('click', () => {
+                const key = th.dataset.key;
+                const current = th.classList.contains('sort-asc') ? 'asc' : th.classList.contains('sort-desc') ? 'desc' : null;
+                headers.forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+                const direction = current === 'asc' ? 'desc' : 'asc';
+                th.classList.add('sort-' + direction);
+                const sorted = [...upList].sort((a, b) => {
+                    if (a[key] < b[key]) return direction === 'asc' ? -1 : 1;
+                    if (a[key] > b[key]) return direction === 'asc' ? 1 : -1;
+                    return 0;
+                });
+                renderTable(sorted);
+            });
+        });
+    </script>
+</body>
+
+</html>
