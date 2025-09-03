@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang='zh-CN'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>对标UP列表</title>
+    <style>
+        :root {
+            --accent: #ff6699;
+            --bg: #f9fafb;
+            --fg: #111827;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            margin: 0;
+            background: var(--bg);
+            color: var(--fg);
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background: var(--accent);
+            color: #fff;
+            padding: 1rem 2rem;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+
+        main {
+            flex: 1;
+            padding: 2rem 1rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        #searchBox {
+            width: 100%;
+            padding: .75rem 1rem;
+            margin-bottom: 1.5rem;
+            border-radius: .5rem;
+            border: 1px solid #d1d5db;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            border-radius: .75rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, .05);
+            overflow: hidden;
+        }
+
+        th,
+        td {
+            padding: 1rem;
+            text-align: left;
+        }
+
+        th {
+            cursor: pointer;
+            background: #f3f4f6;
+            position: relative;
+            user-select: none;
+        }
+
+        tr:nth-child(even) {
+            background: #f9fafb;
+        }
+
+        th.sort-asc::after,
+        th.sort-desc::after {
+            content: '';
+            border: 6px solid transparent;
+            position: absolute;
+            right: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        th.sort-asc::after {
+            border-bottom-color: #6b7280;
+        }
+
+        th.sort-desc::after {
+            border-top-color: #6b7280;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <!-- <input type='text' id='searchBox' placeholder='搜索 UP 名称…'> -->
+        <table id='upTable'>
+            <thead>
+                <tr>
+                    <th data-key='rank'>排名</th>
+                    <th data-key='name'>UP 主</th>
+                    <th>个人中心</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </main>
+
+    <script>
+        const upList = [
+            { rank: 1, name: '搞机所', uid: 178690106 },
+            { rank: 2, name: '野生的装机宅', uid: 941799 },
+            { rank: 3, name: '逆狱。', uid: 1959209 },
+            { rank: 4, name: '翻斗仔仔', uid: 1381782268 },
+            { rank: 5, name: '宇宙数码编辑部', uid: 1123381680 },
+            { rank: 6, name: '不懂就问仓老师', uid: 3546611093342703 },
+            { rank: 7, name: '机玩汇', uid: 3546664065304644 },
+            { rank: 8, name: '炊事班测评组', uid: 3546837665450982 },
+            { rank: 9, name: '数码百事通', uid: 1786971136 },
+            { rank: 10, name: '江户川阿u', uid: 3546611848317161 },
+            { rank: 11, name: '大白测评官', uid: 20147323 },
+            { rank: 12, name: '小时科技', uid: 3493136852585254 },
+            { rank: 13, name: '追风数码', uid: 3546567967509032 },
+            { rank: 14, name: '好物猎人', uid: 3493140145113586 },
+        ];
+
+        const tbody = document.querySelector('#upTable tbody');
+
+        function renderTable(data) {
+            tbody.innerHTML = '';
+            data.forEach(item => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+      <td>${item.rank}</td>
+      <td>${item.name}</td>
+      <td><a href='https://space.bilibili.com/${item.uid}' target='_blank'>直达</a></td>
+    `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        renderTable(upList);
+
+        // 搜索过滤
+        const searchBox = document.getElementById('searchBox');
+        searchBox.addEventListener('input', e => {
+            const keyword = e.target.value.trim().toLowerCase();
+            const filtered = upList.filter(u => u.name.toLowerCase().includes(keyword));
+            renderTable(filtered);
+        });
+
+        // 排序
+        const headers = document.querySelectorAll('th[data-key]');
+        headers.forEach(th => {
+            th.addEventListener('click', () => {
+                const key = th.dataset.key;
+                const current = th.classList.contains('sort-asc') ? 'asc' : th.classList.contains('sort-desc') ? 'desc' : null;
+                headers.forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+                const direction = current === 'asc' ? 'desc' : 'asc';
+                th.classList.add('sort-' + direction);
+                const sorted = [...upList].sort((a, b) => {
+                    if (a[key] < b[key]) return direction === 'asc' ? -1 : 1;
+                    if (a[key] > b[key]) return direction === 'asc' ? 1 : -1;
+                    return 0;
+                });
+                renderTable(sorted);
+            });
+        });
+    </script>
+</body>
+
+</html>
